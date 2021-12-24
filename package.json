@@ -1,0 +1,24 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bagus1986/restapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "bagus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bagus1986/restapi/issues"
+  },
+  "homepage": "https://github.com/Bagus1986/restapi#readme"
+}
